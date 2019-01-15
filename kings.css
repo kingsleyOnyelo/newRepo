@@ -1,0 +1,111 @@
+body{
+    margin:0px;
+    padding: px;
+    color: white;
+    font-size: 14px;
+}
+
+div.side1{
+    background: #a4c4b5;
+    min-height: 100vh;
+}
+div.side2{
+    min-height: 100vh;
+    background: #ffffff;
+}
+img.image{
+    display: block;
+    width:70%;
+    height:67%;
+    margin: auto;
+}
+img.image2{
+    display: block;
+    margin:auto;
+}
+
+h2.title{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #ffffff;
+}
+p.para{
+    display: block;
+    text-align: center;
+}
+h3.love{
+    color:#a8aaa7;
+    text-align: center;
+    margin-top: 80px;
+}
+span.dots{
+    font-size: 60px;
+}
+
+label.lbl1{
+    color:#a8aaa7;
+    margin-top: 50px;
+    margin-left: 70px;
+    display: block;
+}
+
+label.lbl2{
+    color:#a8aaa7;
+    margin-left: 270px;
+    display: block;
+}
+
+input.in1{
+    border-bottom: 1px solid #d7d7d7;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 300px;
+    margin-left: 70px;
+    display: block;
+}
+.lbl1 label:last-child{
+    margin-top: 20px !important;
+}
+
+.btn-dark{
+    width: 150px;
+    border-radius: 18px;
+    display: block;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+hr.hr1{
+    width: 80px;
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+hr.hr2{
+    width: 80px;
+    display: inline-block;
+    margin-left:15px;
+    margin-top: 60px;
+}
+
+p.or2{
+    color:#a8aaa7;
+    display: inline;
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+img.image4{
+    width: 150px;
+    display: block;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+p.account{
+    color: #a8aaa7;
+    margin-left: 130px;
+    margin-top: 10px;
+}
